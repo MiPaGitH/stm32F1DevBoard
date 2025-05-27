@@ -1,6 +1,7 @@
 simple board that allows easy testing of embedded projects using STM32F103 microcontroller
 
 provides:
+ 
  3V3 dc converter
  
  reset button, user button and user led
