@@ -8,6 +8,7 @@ provides:
  
  jumpers to connect user button and led and other pins and select the input power source from 5V pins or micro USB connector 
  
+ 
 GPIO's are fanned out (CAN and UART ports are gouped separately for easy access)
 
 3V3 and GND rails provided for easy connection of sensors and actuators
